@@ -131,9 +131,7 @@ export default function Home() {
                       className="object-cover transition-transform duration-700 group-hover:scale-110"
                     />
                   </Parallax>
-                  <span
-                    className={`${glass} absolute left-4 top-4 rounded-full px-3 py-1 font-sans text-xs tracking-widest`}
-                  >
+                  <span className="absolute left-4 top-4 rounded-full border border-white/70 bg-[#f7f0e0]/85 px-3 py-1 font-sans text-xs tracking-widest text-[#1d1a16] shadow-[0_2px_8px_rgba(60,30,0,0.2),inset_0_1px_0_rgba(255,255,255,0.9)]">
                     {p.tag}
                   </span>
                 </div>
