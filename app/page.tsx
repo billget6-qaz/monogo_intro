@@ -9,7 +9,7 @@ import { Welcome } from "@/components/Greeting";
 
 const products = [
   {
-    name: "愛文芒果",
+    name: "愛文芒果促銷",
     tag: "招牌",
     img: "mango-1",
     spec: "禮盒 5 斤｜約 8–10 顆",
